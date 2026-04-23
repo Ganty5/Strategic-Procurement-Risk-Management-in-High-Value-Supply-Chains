@@ -1,6 +1,6 @@
 **Strategic Procurement & Risk Management in High-Value Supply Chains**
 
-📌 Project Overview
+Project Overview
 This project focuses on risk-based financial modeling and procurement optimization within high-value supply chains. 
 It explores strategies to mitigate market volatility, price fluctuations, and supply chain risks through data-driven insights, 
 forecasting models, and financial hedging techniques.
@@ -8,7 +8,7 @@ forecasting models, and financial hedging techniques.
 By leveraging quantitative risk assessment and financial analytics, this study provides a structured approach to cost efficiency, 
 supplier diversification, and operational resilience—applicable across various industries.
 
-📊 Key Features & Analysis
+Key Features & Analysis
 
 ✔ Market Volatility Analysis – Examines price fluctuations and trends using financial modeling.
 
